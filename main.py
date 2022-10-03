@@ -3,4 +3,4 @@ from function import fibonacci
 n = int(input())
 print(fibonacci(n))
 print('Finish')
-print('There is no conflict!')
+print('There is a conflict!')
